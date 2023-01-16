@@ -3,3 +3,5 @@ def grow(arr):
     for n in arr:
         m *= n
     return m
+
+# прошу прикрепить ссылку на задачу
